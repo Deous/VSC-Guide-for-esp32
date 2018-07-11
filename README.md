@@ -2,8 +2,8 @@
 
 
 <p align="center">
-  <a href="https://getbootstrap.com/">
-    <img src="https://www.espressif.com/sites/all/themes/espressif/logo.png" alt="Logo" height=100 ><span width=50></span>
+  <a>
+    <img src="https://atmosphereiot.com/images/Third-Party-Logos/EspressifLogoFullGlow.png" alt="Logo" height=100 ><span width=50></span>
     <img src="https://code.visualstudio.com/assets/images/windows-logo.png" alt="Logo" width=100 >
   </a>
 
