@@ -56,12 +56,21 @@ and get the latest ESP-IDF framework
 
 Make sure all path and idf variables are present and pointing to right locations
 IDF_PATH is cruicial.
+You can use run-command way to set them up with <u>setx IDF_PATH "...your path to esp-idf folder" </u>
 
 Example setup:
 <img src="vsc-guide-2.bmp" alt="Logo">
 <img src="vsc-guide-3.bmp" alt="Logo">
 
-You can use run-command way to set them up with <u>setx IDF_PATH "...your path to esp-idf folder" </u>
+## Create project
+
+To create project that can properly compile you need the following:
+### .vscode folder must be present in the root project directory
+
+### .vscode folder must have following files:
+ - <a href=".vscode/c_cpp_properties.json">c_cpp_properties.json</a>
+ - <a href=".vscode/settings.json">settings.json</a>
+ - <a href=".vscode/tasks.json">tasks.json</a>
 
 
 
