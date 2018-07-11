@@ -60,6 +60,8 @@ IDF_PATH is cruicial.
 You can use run-command way to set them up with <u>setx IDF_PATH "...your path to esp-idf folder" </u>
 
 Example setup:
+<br/>
+
 <img src="vsc-guide-2.bmp" alt="Logo">
 <img src="vsc-guide-3.bmp" alt="Logo">
 
