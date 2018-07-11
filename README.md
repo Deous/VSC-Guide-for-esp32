@@ -84,15 +84,15 @@ To create project that can properly compile you need the following:
 
 if you want to flash and immefiately monitor use 
 - `idf.py -p COM3 flash monitor`
-
-`build` will build project with changes
-`fullclean` will erase old files and refresh the whole build for new compilation
+<br/>
+`build` will build project with changes<br/>
+`fullclean` will erase old files and refresh the whole build for new compilation<br/>
 
 ## Configure ESP32
 
 Before compiling your project run the command to set up all necessary settings that IDF will use for your ESP32 chip.<br/>
 In Integrated Terminal window run ` idf.py menuconfig`<br/>
-If you are not in Powershell but in cmd.exe - you can run 'powershell idf.py menuconfig'<br/>
+If you are not in Powershell but in cmd.exe - you can run `powershell idf.py menuconfig`<br/>
 <br/>
 Example:<br/>
 <img src="vsc-guide-4.bmp" alt="Logo">
