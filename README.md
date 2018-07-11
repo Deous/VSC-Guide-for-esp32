@@ -22,7 +22,7 @@
 
 ## Download and install VSC
 
-Below link will point to the latest version of the Microsoft code editor which is free and open source.
+Below link will point to the latest version of the Microsoft code editor which is free and open source. 
 Go ahead and download the latest release.
 
 <a href="https://code.visualstudio.com/"><span>Visual Studio Code</span></a>
@@ -30,7 +30,7 @@ Go ahead and download the latest release.
 
 ## Install VSC extensions
 
-After the installation open editor and go to 'Extensions' section to browse all available vsc extensions
+After the installation open editor and go to 'Extensions' section to browse all available vsc extensions. 
 You need the following:
 
 - C++
@@ -53,9 +53,9 @@ and get the latest ESP-IDF framework
 
 ## Setup and verify environment variables
 
-Make sure all path and idf variables are present and pointing to right locations
-IDF_PATH is cruicial.
-You can use run-command way to set them up with <u>setx IDF_PATH "...your path to esp-idf folder" </u>
+Make sure all path and idf variables are present and pointing to right locations. 
+IDF_PATH is cruicial. 
+You can use run-command way to set them up with `setx IDF_PATH "...your path to esp-idf folder"`
 
 Example setup:
 <br/>
