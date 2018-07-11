@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://esp32.com/styles/Subway/theme/images/esp32.png" alt="Logo" width=300 >
+    <img src="https://esp32.com/styles/Subway/theme/images/esp32.png" alt="Logo" height=300 ><span width=50></span>
     <img src="https://code.visualstudio.com/assets/images/windows-logo.png" alt="Logo" width=100 >
   </a>
 
