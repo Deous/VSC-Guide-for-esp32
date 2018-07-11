@@ -19,7 +19,8 @@
 - [Download and install VSC](#Download-and-install-VSC)
 - [Install VSC Extensions](#Install-VSC-extensions)
 - [Setup Toolchain](#Setup-toolchain)
-- [Copyright and license](#copyright-and-license)
+- [Setup and verify environment variables](#Setup-and-verify-environment-variables)
+- [Create project](#Create-project)
 
 ## Download and install VSC
 
@@ -67,10 +68,41 @@ Example setup:
 To create project that can properly compile you need the following:
 ### .vscode folder must be present in the root project directory
 
-### .vscode folder must have following files:
+### .vscode folder must have the following files:
  - <a href=".vscode/c_cpp_properties.json">c_cpp_properties.json</a>
  - <a href=".vscode/settings.json">settings.json</a>
  - <a href=".vscode/tasks.json">tasks.json</a>
+
+### to have key shortcuts you need to modify keybindings.json file
+<a href=".vscode/c_cpp_properties.json">keybindings.json</> is located in C:\Users\....your profile name.... \AppData\Roaming\Code\User
+
+### alternativel and what I recommend - use the command line from terminal to compile,monitor and run your app
+- `idf.py -p COM3 flash` -- wil compile and flash the board on port COM3
+- `idf.py -p COM3 monitor` -- will display live serial monitor in console
+
+if you want to flash and immefiately monitor use 
+- `idf.py -p COM3 flash monitor`
+
+`buil`d will build project with changes
+`fullclean` will erase old files and refresh the whole build for new compilation
+
+## CMake 
+
+To use CMake environment your project must contain just like make files - CMakeLists.txt
+Usually contains f.ex. below lines (in project directory)
+
+`set(MAIN_SRCS
+    main/spi_master_example_main.c
+    main/pretty_effect.c
+    main/decode_image.c)
+
+include($ENV{IDF_PATH}/tools/cmake/project.cmake)
+project(spi_master)`
+
+You can change them 
+
+I will post more later on CMake
+
 
 
 
