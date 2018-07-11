@@ -52,5 +52,18 @@ and get the latest ESP-IDF framework
 
 <a href="https://docs.espressif.com/projects/esp-idf/en/feature-cmake/get-started/index.html#get-started-get-esp-idf">How to get ESP-IDF</a>
 
+## Setup and verify environment variables
+
+Make sure all path and idf variables are present and pointing to right locations
+IDF_PATH is cruicial.
+
+Example setup:
+<img src="vsc-guide-2.bmp" alt="Logo">
+<img src="vsc-guide-3.bmp" alt="Logo">
+
+You can use run-command way to set them up with <u>setx IDF_PATH "...your path to esp-idf folder" </u>
+
+
+
 
 
