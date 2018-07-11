@@ -18,13 +18,39 @@
 
 - [Download and install VSC](#Download-and-install-VSC)
 - [Install VSC Extensions](#Install-VSC-extensions)
+- [Setup Toolchain](#Setup-toolchain)
 - [Copyright and license](#copyright-and-license)
 
 ## Download and install VSC
 
+Below link will point to the latest version of the Microsoft code editor which is free and open source.
+Go ahead and download the latest release.
+
 <a href="https://code.visualstudio.com/"><span>Visual Studio Code</span></a>
+
 
 ## Install VSC extensions
 
+After the installation open editor and go to 'Extensions' section to browse all available vsc extensions
+You need the following:
+
+C++
+Native Debug
+Code Outline or AL Outline (to display and navigate properties)
+
 <img src="vsc-guide-1.bmp" alt="Logo">
+
+## Setup toolchain
+
+Next you need tools for compilation and linking your projects
+Go to below link and follow instructions
+https://docs.espressif.com/projects/esp-idf/en/feature-cmake/get-started/index.html#setup-toolchain
+
+You need to download all-in-one esp-idf tools installer
+<a href="https://dl.espressif.com/dl/esp-idf-tools-setup-1.1.exe">https://dl.espressif.com/dl/esp-idf-tools-setup-1.1.exe</a>
+and get the latest ESP-IDF framework
+
+<a href="https://docs.espressif.com/projects/esp-idf/en/feature-cmake/get-started/index.html#get-started-get-esp-idf">How to get ESP-IDF</a>
+
+
 
