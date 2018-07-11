@@ -1,4 +1,4 @@
-#Setting up Visual Studio Code for ESP32 IDF (FreeRTOS)
+## Setting up Visual Studio Code for ESP32 IDF (FreeRTOS)
 
 
 <p align="center">
