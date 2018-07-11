@@ -84,12 +84,12 @@ To create project that can properly compile you need the following:
 if you want to flash and immefiately monitor use 
 - `idf.py -p COM3 flash monitor`
 
-`buil`d will build project with changes
+`build` will build project with changes
 `fullclean` will erase old files and refresh the whole build for new compilation
 
 ## CMake 
 
-To use CMake environment your project must contain just like Make files - CMakeLists.txt (in project directory)
+To use CMake environment your project must have CMakeLists.txt (just like Make files) in project directory
 
 It usually contains f.ex. below lines 
 
