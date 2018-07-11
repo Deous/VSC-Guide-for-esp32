@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "esp_spi_flash.h": "c"
+    },
+    //"terminal.integrated.shell.windows":"C:\\WINDOWS\\System32\\cmd.exe"
+}
