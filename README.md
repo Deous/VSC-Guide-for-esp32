@@ -26,5 +26,5 @@
 
 ## Install VSC extensions
 
-<img src="https:/github.com/Deous/VSC-Guide-for-esp32/vsc-guide-1.bmp" alt="Logo" width=100 >
+<img src="vsc-guide-1.bmp" alt="Logo" width=100 >
 
