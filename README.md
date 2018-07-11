@@ -92,7 +92,7 @@ Typical project file structure: <br/>
 <img src="vsc-guide-5.jpg">
 
 ### Important note:
-**To open your project you must choose 'Open Folder' option **
+**To open your project you must choose 'Open Folder' option ** <br/>
 <img src="open-folder-menu.jpg">
 
 ## Configure ESP32
