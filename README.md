@@ -84,9 +84,9 @@ To create project that can properly compile you need the following:
 
 if you want to flash and immefiately monitor use 
 - `idf.py -p COM3 flash monitor`
-<br/>
-`build` will build project with changes<br/>
-`fullclean` will erase old files and refresh the whole build for new compilation<br/>
+ 
+`build` will build project with changes <br/>
+`fullclean` will erase old files and refresh the whole build for new compilation <br/>
 
 ## Configure ESP32
 
