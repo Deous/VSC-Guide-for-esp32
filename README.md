@@ -77,7 +77,7 @@ To create project that can properly compile you need the following:
 <a href="c_cpp_properties.json">keybindings.json</> is located in C:\Users\....your profile name.... \AppData\Roaming\Code\User
   This file will allow to run compilation etc with just pressing keyshortcut
 
-### alternativel and what I recommend - use the command line from terminal to compile,monitor and run your app
+### alternatively and what I recommend - use the command line from terminal to compile,monitor and run your app
 - `idf.py -p COM3 flash` -- wil compile and flash the board on port COM3
 - `idf.py -p COM3 monitor` -- will display live serial monitor in console
 
@@ -103,7 +103,9 @@ include($ENV{IDF_PATH}/tools/cmake/project.cmake)
 project(spi_master)
 ```
 
-You can change them 
+You can change them to the project files you have.
+Follow the examples provided in examples folder together with idf framework that you downloaded
+There are CMakeList.txt files in different folders that will help you how to add directories and component references
 
 I will post more later on CMake... ;)
 
