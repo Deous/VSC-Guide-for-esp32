@@ -75,6 +75,7 @@ To create project that can properly compile you need the following:
 
 ### to have key shortcuts you need to modify keybindings.json file
 <a href="c_cpp_properties.json">keybindings.json</> is located in C:\Users\....your profile name.... \AppData\Roaming\Code\User
+  This file will allow to run compilation etc with just pressing keyshortcut
 
 ### alternativel and what I recommend - use the command line from terminal to compile,monitor and run your app
 - `idf.py -p COM3 flash` -- wil compile and flash the board on port COM3
@@ -88,8 +89,9 @@ if you want to flash and immefiately monitor use
 
 ## CMake 
 
-To use CMake environment your project must contain just like make files - CMakeLists.txt
-Usually contains f.ex. below lines (in project directory)
+To use CMake environment your project must contain just like Make files - CMakeLists.txt (in project directory)
+
+It usually contains f.ex. below lines 
 
 ```
 set(MAIN_SRCS
@@ -103,7 +105,7 @@ project(spi_master)
 
 You can change them 
 
-I will post more later on CMake
+I will post more later on CMake... ;)
 
 
 
