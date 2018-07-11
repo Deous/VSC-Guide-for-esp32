@@ -89,7 +89,7 @@ if you want to flash and immefiately monitor use
 `fullclean` will erase old files and refresh the whole build for new compilation <br/>
 
 Typical project file structure: <br/>
-<img src="vsc-guide-5.bmp" alt="Logo">
+<img src="vsc-guide-5.jpg" alt="Logo">
 
 ## Configure ESP32
 
