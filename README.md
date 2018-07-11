@@ -33,9 +33,9 @@ Go ahead and download the latest release.
 After the installation open editor and go to 'Extensions' section to browse all available vsc extensions
 You need the following:
 
-C++
-Native Debug
-Code Outline or AL Outline (to display and navigate properties)
+- C++
+- Native Debug
+- Code Outline or AL Outline (to display and navigate properties)
 
 <img src="vsc-guide-1.bmp" alt="Logo">
 
