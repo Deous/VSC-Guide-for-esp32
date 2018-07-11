@@ -19,6 +19,7 @@
 - [Setup Toolchain](#setup-toolchain)
 - [Setup and verify environment variables](#setup-and-verify-environment-variables)
 - [Create project](#create-project)
+- [Configure ESP32](#configure-esp32)
 
 ## Download and install VSC
 
@@ -94,7 +95,7 @@ In Integrated Terminal window run ` idf.py menuconfig`<br/>
 If you are not in Powershell but in cmd.exe - you can run 'powershell idf.py menuconfig'<br/>
 <br/>
 Example:<br/>
-<img src="vsc-guide-2.bmp" alt="Logo">
+<img src="vsc-guide-4.bmp" alt="Logo">
 
 ## CMake 
 
