@@ -38,7 +38,7 @@ You need the following:<br/>
 - Native Debug
 - Code Outline or AL Outline (to display and navigate properties)
 
-<img src="vsc-guide-1.bmp" alt="Logo">
+<img src="vsc-guide-1.bmp" >
 
 ## Setup toolchain
 
@@ -61,8 +61,8 @@ You can use run-command way to set them up with `setx IDF_PATH "...your path to 
 Example setup:
 <br/>
 
-<img src="vsc-guide-2.bmp" alt="Logo">
-<img src="vsc-guide-3.bmp" alt="Logo">
+<img src="vsc-guide-2.bmp" >
+<img src="vsc-guide-3.bmp" >
 
 ## Create project
 
@@ -89,7 +89,7 @@ if you want to flash and immefiately monitor use
 `fullclean` will erase old files and refresh the whole build for new compilation <br/>
 
 Typical project file structure: <br/>
-<img src="vsc-guide-5.jpg" alt="Logo">
+<img src="vsc-guide-5.jpg">
 
 ## Configure ESP32
 
@@ -98,8 +98,12 @@ In Integrated Terminal window run ` idf.py menuconfig`<br/>
 If you are not in Powershell but in cmd.exe - you can run `powershell idf.py menuconfig`<br/>
 <br/>
 Example:<br/>
-<img src="vsc-guide-4.bmp" alt="Logo"><br/>
-<img src="esp-configmenu.jpg" alt="Logo"><br/>
+<img src="vsc-guide-4.bmp" ><br/>
+<img src="esp-configmenu.jpg" ><br/>
+
+Hit ESC until menuconfig asks about saving the configuration.<br/>
+Confirm save.<br/>
+<img src="menu-done.jpg" ><br/>
 
 ## CMake 
 
