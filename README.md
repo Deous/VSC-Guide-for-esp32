@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
     <img src="https://esp32.com/styles/Subway/theme/images/esp32.png" alt="Logo" width=100 >
+    <img src="https://code.visualstudio.com/assets/images/windows-logo.png" alt="Logo" width=100 >
   </a>
 
   <h3 align="center">ESP32 IoT IDF</h3>
