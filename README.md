@@ -74,7 +74,7 @@ To create project that can properly compile you need the following:
  - <a href=".vscode/tasks.json">tasks.json</a>
 
 ### to have key shortcuts you need to modify keybindings.json file
-<a href="c_cpp_properties.json">keybindings.json</> is located in C:\Users\....your profile name.... \AppData\Roaming\Code\User
+<a href="c_cpp_properties.json">keybindings.json</a> is located in C:\Users\....your profile name.... \AppData\Roaming\Code\User
   This file will allow to run compilation etc with just pressing keyshortcut
 
 ### alternatively and what I recommend - use the command line from terminal to compile,monitor and run your app
