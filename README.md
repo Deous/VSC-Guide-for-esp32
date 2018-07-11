@@ -87,6 +87,15 @@ if you want to flash and immefiately monitor use
 `build` will build project with changes
 `fullclean` will erase old files and refresh the whole build for new compilation
 
+## Configure ESP32
+
+Before compiling your project run the command to set up all necessary settings that IDF will use for your ESP32 chip.<br/>
+In Integrated Terminal window run ` idf.py menuconfig`<br/>
+If you are not in Powershell but in cmd.exe - you can run 'powershell idf.py menuconfig'<br/>
+<br/>
+Example:<br/>
+<img src="vsc-guide-2.bmp" alt="Logo">
+
 ## CMake 
 
 To use CMake environment your project must have CMakeLists.txt (just like Make files) in project directory
