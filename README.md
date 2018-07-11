@@ -2,10 +2,8 @@
 
 
 <p align="center">
-  <a>
     <img src="https://atmosphereiot.com/images/Third-Party-Logos/EspressifLogoFullGlow.png" alt="Logo" height=100 ><span width=50></span>
     <img src="https://code.visualstudio.com/assets/images/windows-logo.png" alt="Logo" width=100 >
-  </a>
 
   <h3 align="center">ESP32 IoT IDF</h3>
 
