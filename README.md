@@ -91,6 +91,10 @@ if you want to flash and immefiately monitor use
 Typical project file structure: <br/>
 <img src="vsc-guide-5.jpg">
 
+### Important note:
+**To open your project you must choose 'Open Folder' option **
+<img src="open-folder-menu.jpg">
+
 ## Configure ESP32
 
 Before compiling your project run the command to set up all necessary settings that IDF will use for your ESP32 chip.<br/>
