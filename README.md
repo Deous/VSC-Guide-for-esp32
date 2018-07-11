@@ -26,5 +26,5 @@
 
 ## Install VSC extensions
 
-<img src="vsc-guide-1.bmp" alt="Logo" width=100 >
+<img src="vsc-guide-1.bmp" alt="Logo">
 
