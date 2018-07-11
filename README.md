@@ -19,7 +19,7 @@
 - [Download and install VSC](#download-and-install-vsc)
 - [Install VSC Extensions](#install-vsc-extensions)
 - [Setup Toolchain](#setup-toolchain)
-- [Setup and verify environment variables](sSetup-and-verify-environment-variables)
+- [Setup and verify environment variables](#setup-and-verify-environment-variables)
 - [Create project](#ceate-project)
 
 ## Download and install VSC
