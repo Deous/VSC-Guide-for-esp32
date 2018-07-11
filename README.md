@@ -23,9 +23,9 @@
 
 ## Download and install VSC
 
-Below link will point to the latest version of the Microsoft code editor which is free and open source. 
-Go ahead and download the latest release.
-
+Below link will point to the latest version of the Microsoft code editor which is free and open source. <br/>
+Go ahead and download the latest release.<br/>
+<br/>
 <a href="https://code.visualstudio.com/"><span>Visual Studio Code</span></a>
 
 
