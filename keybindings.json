@@ -1,0 +1,28 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key": "f5",
+        "command": "workbench.action.tasks.runTask",
+        "args": "build app"
+    },
+    {
+        "key": "f8",
+        "command": "workbench.action.tasks.runTask",
+        "args": "clean app"
+    },
+    {
+        "key": "f4",
+        "command": "workbench.action.tasks.runTask",
+        "args": "flash app"
+    },
+    {
+        "key": "f8",
+        "command": "workbench.action.tasks.runTask",
+        "args": "monitor"
+    },
+    {
+        "key": "f12",
+        "command": "workbench.action.tasks.runTask",
+        "args": "menuconfig"
+    }
+]
