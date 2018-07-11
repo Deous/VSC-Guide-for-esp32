@@ -98,7 +98,8 @@ In Integrated Terminal window run ` idf.py menuconfig`<br/>
 If you are not in Powershell but in cmd.exe - you can run `powershell idf.py menuconfig`<br/>
 <br/>
 Example:<br/>
-<img src="vsc-guide-4.bmp" alt="Logo">
+<img src="vsc-guide-4.bmp" alt="Logo"><br/>
+<img src="esp-configmenu.jpg" alt="Logo"><br/>
 
 ## CMake 
 
