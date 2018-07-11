@@ -10,17 +10,17 @@
   <h3 align="center">ESP32 IoT IDF</h3>
 
   <p align="center">
-    Xtensa powerful framework for faster and easier IoT development.
+    Xtensa IoT framework.
   </p>
 </p>
 
 ## Steps
 
-- [Download and install VSC](#Download-and-install-VSC)
-- [Install VSC Extensions](#Install-VSC-extensions)
-- [Setup Toolchain](#Setup-toolchain)
-- [Setup and verify environment variables](#Setup-and-verify-environment-variables)
-- [Create project](#Create-project)
+- [Download and install VSC](#download-and-install-vsc)
+- [Install VSC Extensions](#install-vsc-extensions)
+- [Setup Toolchain](#setup-toolchain)
+- [Setup and verify environment variables](sSetup-and-verify-environment-variables)
+- [Create project](#ceate-project)
 
 ## Download and install VSC
 
