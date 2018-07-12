@@ -69,7 +69,7 @@ If you want to quickly install whole environment with esp-idf framework - I crea
 IMPORTANT: Please run this file as administrator!!<br/>
 <a href="Resources/esp32setenv.bat">esp32setenv.bat</a>
 
-Make sure you install Git for Windows<br/>
+**Make sure you install Git for Windows**<br/>
 <a href="https://git-scm.com/downloads">Git Client download page</a>
 
 ## Create project
