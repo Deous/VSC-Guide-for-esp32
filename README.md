@@ -64,6 +64,14 @@ Example setup:
 <img src="vsc-guide-2.bmp" >
 <img src="vsc-guide-3.bmp" >
 
+**Note:**
+If you want to quickly install whole environment with esp-idf framework - I created a batch file that will pull esp-idf from github repository, download it to user profile location (C:\Users\NAME\ESP32) and set the IDF_PATH automatically.<br/>
+IMPORTANT: Please run this file as administrator!!<br/>
+<a href="Resources/esp32setenv.bat">esp32setenv.bat</a>
+
+Make sure you install Git for Windows<br/>
+<a href="https://git-scm.com/downloads">Git Client download page</a>
+
 ## Create project
 
 To create project that can properly compile you need the following:
