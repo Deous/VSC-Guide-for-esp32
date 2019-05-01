@@ -37,6 +37,7 @@ You need the following:<br/>
 - C++
 - Native Debug
 - Code Outline or AL Outline (to display and navigate properties)
+- Additionally - ASM Code Lens extension - for ULP ASM
 
 <img src="vsc-guide-1.bmp" >
 
@@ -44,13 +45,13 @@ You need the following:<br/>
 
 Next you need tools for compilation and linking your projects
 Go to below link and follow instructions
-https://docs.espressif.com/projects/esp-idf/en/feature-cmake/get-started/index.html#setup-toolchain
+https://docs.espressif.com/projects/esp-idf/en/latest/get-started-cmake/index.html#step-1-set-up-the-toolchain
 
 You need to download all-in-one esp-idf tools installer
-<a href="https://dl.espressif.com/dl/esp-idf-tools-setup-1.1.exe">https://dl.espressif.com/dl/esp-idf-tools-setup-1.1.exe</a>
+<a href="https://dl.espressif.com/dl/esp-idf-tools-setup-1.2.exe">https://dl.espressif.com/dl/esp-idf-tools-setup-1.2.exe</a>
 and get the latest ESP-IDF framework
 
-<a href="https://docs.espressif.com/projects/esp-idf/en/feature-cmake/get-started/index.html#get-started-get-esp-idf">How to get ESP-IDF</a>
+<a href="https://docs.espressif.com/projects/esp-idf/en/latest/get-started-cmake/index.html#step-2-get-esp-idf">How to get ESP-IDF</a>
 
 ## Setup and verify environment variables
 
